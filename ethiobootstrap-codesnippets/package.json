@@ -1,0 +1,22 @@
+{
+    "name": "EthioBootstrap Starter",
+    "displayName": "EthioBootstrap Starter",
+    "description": "This is simple Ethio BOOTSTRAP CODE SNIPPETS created by KINFE MICHAEL TARIKU",
+    "version": "1.0.0",
+    "publisher": "KINFE",
+    "icon": "icon.png",
+    "engines": {
+        "vscode": "^1.46.0"
+    },
+    "categories": [
+        "Snippets"
+    ],
+    "contributes": {
+        "snippets": [
+            {
+                "language": "html",
+                "path": "./snippets/snippets.code-snippets"
+            }
+        ]
+    }
+}
